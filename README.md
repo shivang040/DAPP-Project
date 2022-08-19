@@ -14,6 +14,10 @@ Decentralised Application Project
 * Goto DAPP-PROJECT-MAIN  -> DAPP-Project-main -> client
     * Open terminal
     * Run `npm run dev`
+
+* Goto [https://metamask.io/](https://metamask.io/) and install MetaMask extension to your browser
+* Create two accounts in MetaMask
+* Goto [https://goerlifaucet.com/](https://goerlifaucet.com/) to get your free tester Ethereum in your MetaMask wallet.
  
  
   
